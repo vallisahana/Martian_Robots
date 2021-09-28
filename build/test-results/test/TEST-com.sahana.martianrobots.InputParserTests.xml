@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sahana.martianrobots.InputParserTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-28T15:58:22" hostname="DESKTOP-NMJN00T" time="0.019">
+  <properties/>
+  <testcase name="cityParserShouldParseGridBoundsCorrectly" classname="com.sahana.martianrobots.InputParserTests" time="0.013"/>
+  <testcase name="cityParserShouldParseInitialRobotStatesCorrectly" classname="com.sahana.martianrobots.InputParserTests" time="0.001"/>
+  <testcase name="cityParserShouldParseRobotInstructionsCorrectly" classname="com.sahana.martianrobots.InputParserTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
